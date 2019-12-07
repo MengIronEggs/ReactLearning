@@ -23,7 +23,7 @@ class Todolist extends Component {
         this.setState(()=>({
             list:[...TestArr]
         }));
-        // let url = 'testUrl';
+        // let url = 'testUrl';ajax的测试请求。
         // axios.get(url).then(res=>{
         //     alert('success');
         // }).catch(()=>{
