@@ -28,7 +28,7 @@ class Todolist extends Component {
         //     alert('success');
         // }).catch(()=>{
         //     alert('error');
-        // })
+        // }) 
     }
 	// 组件被更新之前，自动执行 。
 	shouldComponentUpdate(){return true;
